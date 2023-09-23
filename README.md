@@ -11,7 +11,7 @@ Currently, I'm working on a project that showcases my Java programming skills:
 
 ### Learning and Achievements
 - 🌱 Currently learning Java and Object-Oriented Programming.
-- 🚀 Completed 250+ technical questions on HackerRank in English.
+- 🚀 Completed 250+ technical questions on HackerRank in Coding.
 
 ## Skills
 I have a strong command of Java and other programming languages. My skills include:
@@ -24,7 +24,7 @@ I have a strong command of Java and other programming languages. My skills inclu
 
 ### Tools
 - Git
-- Visual Studio Code
+- Hacker Rank
 
 ## How to Reach Me
 - 📧 Email: [kummrinl16@gmail.com](mailto:kummrinl16@gmail.com)
